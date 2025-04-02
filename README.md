@@ -7,8 +7,6 @@ PixelWARP: Reverse PnP Engineered
 ### solve reverse rectangle perspective problems with a more efficient algorithm
 <div align="left">
 
-## 
-
 ## What is PixelWARP? 
 
 ## 
